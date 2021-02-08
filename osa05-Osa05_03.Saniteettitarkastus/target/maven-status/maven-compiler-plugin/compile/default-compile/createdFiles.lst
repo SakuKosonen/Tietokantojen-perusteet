@@ -1,0 +1,9 @@
+tikape\tasks\dao\UserDao.class
+tikape\tasks\dao\Dao.class
+tikape\tasks\domain\User.class
+tikape\tasks\dao\TaskAssignmentDao.class
+tikape\tasks\domain\TaskAssignment.class
+tikape\tasks\TaskApplication.class
+tikape\tasks\database\Database.class
+tikape\tasks\domain\Task.class
+tikape\tasks\dao\TaskDao.class
